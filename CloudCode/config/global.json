@@ -1,11 +1,11 @@
 {
     "applications": {
-        "Contacts App": {
-            "applicationId": "kVqHCVfsb0i4JFUfAYw47QIP4rKG582t1O2PWfGc", 
-            "masterKey": "dygu4WgVedDp5iBIIgZ9UbwVn7vLJ1BSl3IBfDq4"
+        "Your App Name": {
+            "applicationId":"Application ID Key",
+            "masterKey": "Master Key"
         }, 
         "_default": {
-            "link": "Contacts App"
+            "link": "Your App Name"
         }
     }, 
     "global": {
